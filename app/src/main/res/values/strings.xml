@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">placar</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="plus_2_points">+ 2 Points</string>
+    <string name="plus_3_points">+ 3 Points</string>
+    <string name="reset_points">reset</string>
+</resources>
